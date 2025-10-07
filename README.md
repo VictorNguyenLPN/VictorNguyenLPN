@@ -26,10 +26,6 @@
 
 ## 🚀 Projects
 
-Tuyệt vời — dự án **AirForce** này nghe cực kỳ “NASA-grade” rồi đấy. Dưới đây là phần viết gợi ý mà bạn có thể thêm vào **README cá nhân GitHub** của mình, để nhất quán với phong cách trình bày của hai project trước (`notema` và `athstock`):
-
----
-
 ### AirForce (Top 10 NASA Space Apps Challenge 2025, Ho Chi Minh)
 
 A cloud-native platform for **monitoring and forecasting air quality** using **real-time satellite and ground-based environmental data**.
