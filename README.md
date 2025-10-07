@@ -49,7 +49,7 @@ The project integrates **TEMPO** satellite measurements, **EPA AirNow** ground s
 
 ---
 
-### notema (2025)
+### notema (Final Project – Web & Applications Programming, 2025)
 > Under code refactoring
 
 A modern note management web app built with ReactJS and SlimPHP.  
@@ -62,7 +62,7 @@ Features:
 
 ---
 
-### athstock (2024-2025)
+### athstock (3rd Prize – TDTU Student Scientific Research 2024 - 2025)
 > Under code refactoring
 
 A real-time stock price platform combining AI and community blogging, built with WebSockets, TailwindCSS, and LSTM/PhoBERT models.  
