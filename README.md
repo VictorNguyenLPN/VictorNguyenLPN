@@ -1,30 +1,28 @@
-<!-- Profile Header -->
 <div align="center">
-  <h1>Hi 👋, I'm Quang Huy (Victor)</h1>
-  <h3>🚀 Focused on AI, Web Development & Research</h3>
-  <h4>👨‍💻 3rd-year Computer Science Student at Ton Duc Thang University</h4>
+  <h1>Hi, I'm Quang Huy (Victor)</h1>
+  <p><strong>Focused on ML, CV, NLP, Web Development & Research</strong><br/>
+  3rd-year Computer Science Student at Ton Duc Thang University</p>
 </div>
 
 <br/>
 
-<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorNguyenLPN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorNguyenLPN&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="130" />
-  <img height="130" width="130" src="https://i.imgflip.com/65qngn.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorNguyenLPN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorNguyenLPN&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+  <img height="150" src="https://i.imgflip.com/65qngn.gif" />
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - I'm a **Computer Science student** at **Ton Duc Thang University**
-- Focused on **AI, NLP, CV**, and building impactful software
+- Focused on **ML, NLP, CV**, and building impactful software
 - Chemistry Olympiad background turned AI/ML researcher
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### AirForce (Top 10 NASA Space Apps Challenge 2025, Ho Chi Minh)
 
@@ -50,7 +48,6 @@ The project integrates **TEMPO** satellite measurements, **EPA AirNow** ground s
 ---
 
 ### notema (Final Project – Web & Applications Programming, 2025)
-> Under code refactoring
 
 A modern note management web app built with ReactJS and SlimPHP.  
 Features:
@@ -79,7 +76,7 @@ Features:
 ## 💻 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Web Development
 
@@ -91,12 +88,13 @@ Features:
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-B40000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🌐 Connect with Me
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenquanghuy040805/) [![Email](https://custom-icon-badges.demolab.com/badge/-quanghuy71847@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quanghuy71847@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenquanghuy040805/) [![Email](https://custom-icon-badges.demolab.com/badge/-quanghuy71847@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quanghuy71847@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daddychillonig/)
+
 
