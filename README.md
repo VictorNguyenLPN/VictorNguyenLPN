@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Quang Huy (Victor)</h1>
-  <p><strong>Focused on ML, CV, NLP, Web Development & Research</strong><br/>
+  <p><strong>AI Engineer | Time-Series Forecasting | NLP | Computer Vision</strong><br/>
   3rd-year Computer Science Student at Ton Duc Thang University</p>
 </div>
 
@@ -16,85 +16,129 @@
 
 ## About Me
 
-- I'm a **Computer Science student** at **Ton Duc Thang University**
-- Focused on **ML, NLP, CV**, and building impactful software
-- Chemistry Olympiad background turned AI/ML researcher
+AI Engineer with a focus on **time-series forecasting**, **NLP**, and **computer vision**. I build end-to-end ML systems, from data pipelines and model training to production deployment, and deliver full-stack applications that solve real-world problems.
+
+---
+
+## Publications
+
+**ASBW: A Frequency-Domain Analysis Approach for Distinguishing GAN-Generated Images from Real Images**
+
+DOI: **Updating**
 
 ---
 
 ## Projects
 
-### AirForce (Top 10 NASA Space Apps Challenge 2025, Ho Chi Minh)
+### DataStorm
 
-A cloud-native platform for **monitoring and forecasting air quality** using **real-time satellite and ground-based environmental data**.
-The project integrates **TEMPO** satellite measurements, **EPA AirNow** ground stations, and **NOAA weather forecasts** to predict **AQI (Air Quality Index)** over the next seven days.
+An end-to-end retail analytics and demand forecasting platform for FMCG, combining interactive dashboards with ML-powered 7-day forecasts.
+
+**Achievement:** [Top 10, Encouragement Prize of  Vietnam Datathon - DataStorm 2025](https://drive.google.com/file/d/1qksnp924iOI4s5qwWvdedV6fYhsfN7y-/view?usp=sharing)
 
 **My role:**
 
-* Trained **machine learning & deep learning models** (ARIMA, LSTM) using data from **WHO, TEMPO, AQ datasets**.
-* Built predictive pipelines for 7-day AQI forecasting with uncertainty quantification.
-* Contributed to **frontend visualization** with React for interactive AQI chart.
+* Processed and analyzed multi-vertical retail data; selected forecasting approaches suited to FMCG seasonality.
+* Implemented the ML forecasting service for SKU-level demand.
+* Built end-to-end pipelines from ingestion to serving.
+* Contributed to the website frontend (Next.js/Tailwind) and backend (FastAPI + PostgreSQL + Redis) for analytics delivery.
 
 **Features:**
 
-* Real-time data ingestion (TEMPO, NOAA, ground stations)
-* Machine learning & deep learning forecasting
-* AQI alert system with WHO/EPA thresholds
-* Scalable cloud deployment (Kubernetes / Serverless)
-* Interactive map visualization for temporal-spatial air quality tracking
+* Sales analytics (net sales, units, revenue) with geographic and channel breakdowns.
+* 7-day demand forecasting for inventory optimization and stock alerts.
+* Pricing/discount impact analysis and supplier performance views.
+* Interactive maps for multi-country store comparisons.
+
+🔗 [GitHub Repo](https://github.com/DomTechnology/datastorm)
+
+---
+
+### AirForce
+
+A cloud-native platform for monitoring and forecasting air quality using real-time satellite and ground-based environmental data. The project integrates TEMPO satellite measurements, EPA AirNow ground stations, and NOAA weather forecasts to predict **AQI (Air Quality Index)** over the next 7-days.
+
+**Achievement:** [Top 11 NASA Space Apps Challenge 2025, Ho Chi Minh](https://www.facebook.com/share/p/1FmFRrUUNd)
+
+**My role:**
+
+* Trained deep learning **LSTM** model using WHO, TEMPO, AQ datasets.
+* Built predictive pipelines for **7-days AQI forecasting**.
+* Contributed to frontend visualization with React for interactive AQI chart.
+
+**Features:**
+
+* Real-time data ingestion (TEMPO, NOAA, ground stations).
+* Deep learning forecasting.
+* AQI alert system with WHO/EPA thresholds.
+* Interactive map visualization for temporal-spatial air quality tracking.
 
 🔗 [GitHub Repo](https://github.com/DanielNguyen-05/AirForce)
 
 ---
 
-### notema (Final Project – Web & Applications Programming, 2025)
+### athStock
 
-A modern note management web app built with ReactJS and SlimPHP.  
-Features:
-- Create, update, delete notes  
-- Share notes via links  
-- Lock notes with passwords for privacy
+A real-time stock intelligence platform combining AI forecasting and community blogging for retail investors.
 
-🔗 [GitHub Repo](https://github.com/VictorNguyenLPN/notema)
+**Achievement:** [3rd Prize, TDTU Student Scientific Research 2024 - 2025](https://drive.google.com/file/d/1ExQUp3LUt_MafnuW0qE9KedmzF64fVCD/view?usp=sharing)
 
----
+**My role:**
 
-### athstock (3rd Prize – TDTU Student Scientific Research 2024 - 2025)
-> Under code refactoring
+* Designed the event-driven pipeline with WebSockets for live price streams.
+* Trained PhoBERT models for trend prediction and sentiment scoring.
+* Built the blogging and publishing workflow for investor insights.
 
-A real-time stock price platform combining AI and community blogging, built with WebSockets, TailwindCSS, and LSTM/PhoBERT models.  
-Features:
-- Live stock market streaming  
-- Predict future trends using **deep learning**  
-- NLP-based **sentiment analysis** from financial news  
-- A **blogging community** where users can publish investment analysis and predictions
+**Features:**
+
+* Live market streaming with TailwindCSS dashboards.
+* Deep learning trend forecasts from LSTM models.
+* PhoBERT-powered sentiment analysis on financial news.
+* Community blogging feed for investment analysis and predictions.
 
 🔗 [GitHub Repo](https://github.com/VictorNguyenLPN/athstock)
 
 ---
 
-## 💻 Tech Stack
+### notema
 
-### Languages
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+A modern note management web app built with ReactJS and SlimPHP.
 
-### Web Development
+**Achievement:** Final Project, Web & Applications Programming Course, 2025
 
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![SlimPHP](https://img.shields.io/badge/SlimPHP-8F2439?style=for-the-badge&logo=slimframework&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**My role:**
 
-### AI / Data Science
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+* Built the React UI and SlimPHP API for note CRUD flows.
+* Implemented link-based sharing with access controls.
+* Added password-locking for sensitive notes.
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-B40000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+**Features:**
 
-### Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+* Create, update, and delete notes.
+* Share notes via generated links.
+* Lock notes with passwords for privacy.
+
+🔗 [GitHub Repo](https://github.com/VictorNguyenLPN/notema)
+
+---
+
+## Tech Stack
+
+- Languages: Python, JavaScript, PHP, C, SQL, Bash
+- ML/DL: PyTorch, scikit-learn, Hugging Face Transformers
+- Data & ETL: Pandas, NumPy
+- MLOps & Experiments: Weights & Biases, Docker, GitHub Actions
+- APIs & Serving: FastAPI, Flask, SlimPHP, ExpressJS
+- Visualization: Matplotlib, Seaborn, Plotly
+- Datastores: PostgreSQL, MySQL, MongoDB
+- Frontend: React, TailwindCSS
 
 ---
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenquanghuy040805/) [![Email](https://custom-icon-badges.demolab.com/badge/-quanghuy71847@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quanghuy71847@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daddychillonig/)
+- **LinkedIn**: [linkedin.com/in/nguyenquanghuy040805](https://www.linkedin.com/in/nguyenquanghuy040805/)
+- **Email**: [nqhuy.aie@gmail.com](mailto:nqhuy.aie@gmail.com)
+- **Instagram**: [@daddychillonig](https://www.instagram.com/daddychillonig/)
 
 
