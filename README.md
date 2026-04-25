@@ -20,7 +20,7 @@ I focus on **Multimodal Learning, Image Forensics, and Applied AI Systems**. My 
 
 ## Publications
 
-* Nguyen, Q. H., & Pham, V. H. (2026). **ASBW: A frequency-domain analysis approach for distinguishing GAN-generated images from real images**. In Proceedings of the Digital Convergence in Economics, Society and Technology ([DCEST](https://dcest.org/)) 2026 International Conference (pp. 95–105).
+* Nguyen, Q. H., & Pham, V. H. (2026). **ASBW: A frequency-domain analysis approach for distinguishing GAN-generated images from real images**. In Proceedings of [The Digital Convergence in Economics, Society and Technology (DCEST) 2026 International Conference]((https://dcest.org/)) (pp. 95–105).
 
 ---
 
