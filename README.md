@@ -2,16 +2,13 @@
   <h1>Hi, I'm Quang Huy (Victor)</h1>
   <p>
     <strong>Research Intern @ NLP & KD Lab, TDTU</strong><br/>
-    Multimodal Learning | Image Forensics | AI Systems
+    Multimodal Learning | Image Forensics | AI Systems<br/>
+    <a href="https://victornguyenlpn.github.io/">Homepage</a> |
+    <a href="mailto:nqhuy.aie@gmail.com">Email</a> |
+    <a href="https://www.linkedin.com/in/nguyenquanghuy040805/">LinkedIn</a> |
+    <a href="https://orcid.org/0009-0003-3203-0415">ORCID</a>
   </p>
 </div>
-
-<p align="center">
-  <a href="https://victornguyenlpn.github.io/">Homepage</a> |
-  <a href="mailto:nqhuy.aie@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/nguyenquanghuy040805/">LinkedIn</a> |
-  <a href="https://orcid.org/0009-0003-3203-0415">ORCID</a>
-</p>
 
 ---
 
