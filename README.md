@@ -22,7 +22,7 @@ I focus on **Multimodal Learning, Image Forensics, and Applied AI Systems**. My 
 
 * Nguyen, Q. H., & Pham, V. H. (2026). **ASBW: A frequency-domain analysis approach for distinguishing GAN-generated images from real images**. In Proceedings of [The Digital Convergence in Economics, Society and Technology (DCEST) 2026 International Conference](https://dcest.org/) (pp. 95–105).
 * Nguyen, Q. H., Nguyen, P. T., Phan, A. K., & Tran Luong, Q.-D. (2026). **ViBankACSA: An aspect category sentiment analysis dataset for Vietnamese banking**.
-* Nguyen, Q. H., & Pham, V. H. (2026). FALCON: **Forensic artifact-guided localization and contrastive reasoning for generalizable synthetic image detection**.
+* Nguyen, Q. H., & Pham, V. H. (2026). **FALCON: Forensic artifact-guided localization and contrastive reasoning for generalizable synthetic image detection**.
   
 ---
 
