@@ -70,7 +70,7 @@ A air quality monitoring and 7-day AQI forecasting platform integrating satellit
   * Backend: FastAPI, PostgreSQL.
   * Machine Learning & Forecasting: PyTorch, Pandas, NumPy, LSTM.
 
-### [athStock]((https://github.com/VictorNguyenLPN/athstock))
+### [athStock](https://github.com/VictorNguyenLPN/athstock)
 
 A real-time stock platform integrating deep learning-based forecasting, NLP-driven sentiment analysis, and live market data streaming.
 
