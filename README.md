@@ -1,144 +1,126 @@
 <div align="center">
   <h1>Hi, I'm Quang Huy (Victor)</h1>
-  <p><strong>AI Engineer | Time-Series Forecasting | NLP | Computer Vision</strong><br/>
-  3rd-year Computer Science Student at Ton Duc Thang University</p>
+  <p>
+    <strong>Research Intern @ NLP & KD Lab, TDTU</strong><br/>
+    Multimodal Learning | Image Forensics | AI Systems
+  </p>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorNguyenLPN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorNguyenLPN&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
-  <img height="150" src="https://i.imgflip.com/65qngn.gif" />
-</div>
+<p align="center">
+  <a href="https://victornguyenlpn.github.io/">Homepage</a> |
+  <a href="mailto:nqhuy.aie@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/nguyenquanghuy040805/">LinkedIn</a> |
+  <a href="https://orcid.org/0009-0003-3203-0415">ORCID</a>
+</p>
 
 ---
 
 ## About Me
 
-AI Engineer with a focus on **time-series forecasting**, **NLP**, and **computer vision**. I build end-to-end ML systems, from data pipelines and model training to production deployment, and deliver full-stack applications that solve real-world problems.
+I focus on **Multimodal Learning, Image Forensics, and Applied AI Systems**. My work spans from training deep learning models (CV, NLP, time-series) to building end-to-end systems for real-world applications.
 
 ---
 
 ## Publications
 
-**ASBW: A Frequency-Domain Analysis Approach for Distinguishing GAN-Generated Images from Real Images**
-
-DOI: **Updating**
+* Nguyen, Q. H., & Pham, V. H. (2026). **ASBW: A frequency-domain analysis approach for distinguishing GAN-generated images from real images**. In Proceedings of the Digital Convergence in Economics, Society and Technology ([DCEST](https://dcest.org/)) 2026 International Conference (pp. 95–105).
 
 ---
 
 ## Projects
 
-### DataStorm
+### [DataStorm](https://github.com/DomTechnology/datastorm)
 
-An end-to-end retail analytics and demand forecasting platform for FMCG, combining interactive dashboards with ML-powered 7-day forecasts.
+An end-to-end retail analytics and SKU-level demand forecasting platform for FMCG, integrating time-series modeling with interactive dashboards.
 
-**Achievement:** [Top 10, Encouragement Prize of  Vietnam Datathon - DataStorm 2025](https://drive.google.com/file/d/1qksnp924iOI4s5qwWvdedV6fYhsfN7y-/view?usp=sharing)
+**Achievement:** Top 10, Encouragement Prize of  Vietnam Datathon - DataStorm 2025
 
-**My role:**
+**My Role** (Team of 5)
+  * Engineered SKU-level time-series features (lag, rolling statistics, seasonal encodings).
+  * Developed XGBoost forecasting models achieving 5% lower MAPE than seasonal baseline.
+  * Deployed forecasting API with FastAPI.
+  * Built analytics dashboard with React and Next.js.
+  
+**Features**
+  * Interactive sales analytics with geo/channel drill-down.
+  * 7-day demand forecasting for inventory optimization and stock alerting.
+  * Price elasticity and promotion impact analysis.
+  * Multi-country store comparison via geospatial visualization.
+  
+**Tech Stack**
+  * Frontend: Next.js, React, shadcn/ui, Tailwind CSS.
+  * Backend: FastAPI, PostgreSQL, Redis.
+  * Machine Learning & Forecasting: Pandas, Scikit-learn, XGBoost.
 
-* Processed and analyzed multi-vertical retail data; selected forecasting approaches suited to FMCG seasonality.
-* Implemented the ML forecasting service for SKU-level demand.
-* Built end-to-end pipelines from ingestion to serving.
-* Contributed to the website frontend (Next.js/Tailwind) and backend (FastAPI + PostgreSQL + Redis) for analytics delivery.
+### [AirForce](https://github.com/DanielNguyen-05/AirForce)
 
-**Features:**
+A air quality monitoring and 7-day AQI forecasting platform integrating satellite, ground-station, and meteorological data streams.
 
-* Sales analytics (net sales, units, revenue) with geographic and channel breakdowns.
-* 7-day demand forecasting for inventory optimization and stock alerts.
-* Pricing/discount impact analysis and supplier performance views.
-* Interactive maps for multi-country store comparisons.
+**Achievement:** Top 11 NASA Space Apps Challenge 2025, Ho Chi Minh
 
-🔗 [GitHub Repo](https://github.com/DomTechnology/datastorm)
+**My role**
+  * Developed LSTM-based time-series models for 7-day AQI forecasting using multi-source environmental datasets.
+  * Contributed to interactive AQI visualization and spatial tracking using React.
+
+**Features**
+  * Real-time ingestion from satellite and ground-based environmental sources.
+  * Deep learning-based 7-day AQI forecasting.
+  * AQI alerting system aligned with WHO and EPA thresholds.
+  * Temporal-spatial visualization for air quality monitoring.
+
+**Tech Stack**
+  * Frontend: React, Next.js, Tailwind CSS.
+  * Backend: FastAPI, PostgreSQL.
+  * Machine Learning & Forecasting: PyTorch, Pandas, NumPy, LSTM.
+
+### [athStock]((https://github.com/VictorNguyenLPN/athstock))
+
+A real-time stock platform integrating deep learning-based forecasting, NLP-driven sentiment analysis, and live market data streaming.
+
+**Achievement:** 3rd Prize, TDTU Student Scientific Research 2024 - 2025
+
+**My role** (Team of 2)
+  * Designed an architecture using WebSockets for real-time stock price streaming.
+  * Developed LSTM-based models for short-term trend forecasting on historical price data.
+  * Fine-tuned PhoBERT for financial news sentiment analysis.
+  * Built blogging and publishing platform.
+
+**Features**
+  * Real-time stock dashboards with live price updates.
+  * Deep learning-based trend forecasting.
+  * NLP-powered sentiment scoring on Vietnamese financial news.
+  * Community blogging platform for investment insights.
+
+**Tech Stack**
+  * Frontend: React, Next.js, Tailwind CSS.
+  * Backend: FastAPI / Node.js, PostgreSQL, WebSockets.
+  * Machine Learning & NLP: PyTorch, LSTM, PhoBERT, Pandas.
+  
+---
+
+## Skills
+
+* Languages: Python, JavaScript, SQL.
+* ML/DL: PyTorch, scikit-learn, Hugging Face.
+* Data & ETL: Pandas, NumPy.
+* APIs & Serving: FastAPI, Flask, ExpressJS.
+* Visualization: Matplotlib, Seaborn, Plotly.
+* Datastores: MySQL, MongoDB.
+* Frontend: React, TailwindCSS.
 
 ---
 
-### AirForce
+## Certification
 
-A cloud-native platform for monitoring and forecasting air quality using real-time satellite and ground-based environmental data. The project integrates TEMPO satellite measurements, EPA AirNow ground stations, and NOAA weather forecasts to predict **AQI (Air Quality Index)** over the next 7-days.
-
-**Achievement:** [Top 11 NASA Space Apps Challenge 2025, Ho Chi Minh](https://www.facebook.com/share/p/1FmFRrUUNd)
-
-**My role:**
-
-* Trained deep learning **LSTM** model using WHO, TEMPO, AQ datasets.
-* Built predictive pipelines for **7-days AQI forecasting**.
-* Contributed to frontend visualization with React for interactive AQI chart.
-
-**Features:**
-
-* Real-time data ingestion (TEMPO, NOAA, ground stations).
-* Deep learning forecasting.
-* AQI alert system with WHO/EPA thresholds.
-* Interactive map visualization for temporal-spatial air quality tracking.
-
-🔗 [GitHub Repo](https://github.com/DanielNguyen-05/AirForce)
-
----
-
-### athStock
-
-A real-time stock intelligence platform combining AI forecasting and community blogging for retail investors.
-
-**Achievement:** [3rd Prize, TDTU Student Scientific Research 2024 - 2025](https://drive.google.com/file/d/1ExQUp3LUt_MafnuW0qE9KedmzF64fVCD/view?usp=sharing)
-
-**My role:**
-
-* Designed the event-driven pipeline with WebSockets for live price streams.
-* Trained PhoBERT models for trend prediction and sentiment scoring.
-* Built the blogging and publishing workflow for investor insights.
-
-**Features:**
-
-* Live market streaming with TailwindCSS dashboards.
-* Deep learning trend forecasts from LSTM models.
-* PhoBERT-powered sentiment analysis on financial news.
-* Community blogging feed for investment analysis and predictions.
-
-🔗 [GitHub Repo](https://github.com/VictorNguyenLPN/athstock)
-
----
-
-### notema
-
-A modern note management web app built with ReactJS and SlimPHP.
-
-**Achievement:** Final Project, Web & Applications Programming Course, 2025
-
-**My role:**
-
-* Built the React UI and SlimPHP API for note CRUD flows.
-* Implemented link-based sharing with access controls.
-* Added password-locking for sensitive notes.
-
-**Features:**
-
-* Create, update, and delete notes.
-* Share notes via generated links.
-* Lock notes with passwords for privacy.
-
-🔗 [GitHub Repo](https://github.com/VictorNguyenLPN/notema)
-
----
-
-## Tech Stack
-
-- Languages: Python, JavaScript, PHP, C, SQL, Bash
-- ML/DL: PyTorch, scikit-learn, Hugging Face Transformers
-- Data & ETL: Pandas, NumPy
-- MLOps & Experiments: Weights & Biases, Docker, GitHub Actions
-- APIs & Serving: FastAPI, Flask, SlimPHP, ExpressJS
-- Visualization: Matplotlib, Seaborn, Plotly
-- Datastores: PostgreSQL, MySQL, MongoDB
-- Frontend: React, TailwindCSS
+* **TOEIC** (Listening: 480/495; Reading: 365/495; Speaking: 120/200; Writing: 150/200)
+* **Agile Development & Scrum Framework** (Techbase Vietnam)
 
 ---
 
 ## Contact
 
-- **LinkedIn**: [linkedin.com/in/nguyenquanghuy040805](https://www.linkedin.com/in/nguyenquanghuy040805/)
-- **Email**: [nqhuy.aie@gmail.com](mailto:nqhuy.aie@gmail.com)
-- **Instagram**: [@daddychillonig](https://www.instagram.com/daddychillonig/)
-
+* **LinkedIn**: [linkedin.com/in/nguyenquanghuy040805](https://www.linkedin.com/in/nguyenquanghuy040805/)
+* **Email**: [nqhuy.aie@gmail.com](mailto:nqhuy.aie@gmail.com) or [nguyenquanghuy.st@tdtu.edu.vn](nguyenquanghuy.st@tdtu.edu.vn)
+* **Homepage**: [https://victornguyenlpn.github.io/](https://victornguyenlpn.github.io/)
+* **ORCID**: [0009-0003-3203-0415](https://orcid.org/0009-0003-3203-0415)
 
