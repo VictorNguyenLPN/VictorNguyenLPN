@@ -5,6 +5,7 @@
     Multimodal Learning | Image Forensics | AI Systems<br/>
     <a href="https://victornguyenlpn.github.io/">Homepage</a> |
     <a href="mailto:nqhuy.aie@gmail.com">Email</a> |
+    <a href="https://github.com/VictorNguyenLPN">Github</a> |
     <a href="https://www.linkedin.com/in/nguyenquanghuy040805/">LinkedIn</a> |
     <a href="https://orcid.org/0009-0003-3203-0415">ORCID</a><br/><br/>
     <em>Seeking <strong>AI Research Intern</strong> (Multimodal Learning, Computer Vision, LLMs)<br/>and <strong>AI Engineer Intern</strong> (RAG, AI Agents, LLM applications)<br/>in Ho Chi Minh City, Vietnam 🇻🇳</em>
