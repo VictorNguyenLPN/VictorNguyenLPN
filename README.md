@@ -6,7 +6,8 @@
     <a href="https://victornguyenlpn.github.io/">Homepage</a> |
     <a href="mailto:nqhuy.aie@gmail.com">Email</a> |
     <a href="https://www.linkedin.com/in/nguyenquanghuy040805/">LinkedIn</a> |
-    <a href="https://orcid.org/0009-0003-3203-0415">ORCID</a>
+    <a href="https://orcid.org/0009-0003-3203-0415">ORCID</a><br/><br/>
+    <em>Seeking AI Research Intern roles (Multimodal Learning, Computer Vision, LLMs), AI Engineer Intern positions (RAG, AI Agents, LLM applications) in Ho Chi Minh City, Vietnam 🇻🇳</em>
   </p>
 </div>
 
@@ -28,11 +29,9 @@ I focus on **Multimodal Learning, Image Forensics, and Applied AI Systems**. My 
 
 ## Projects
 
-### [DataStorm](https://github.com/DomTechnology/datastorm)
+### [DataStorm](https://github.com/DomTechnology/datastorm) | Top 10, Encouragement Prize of  Vietnam Datathon - DataStorm 2025
 
 An end-to-end retail analytics and SKU-level demand forecasting platform for FMCG, integrating time-series modeling with interactive dashboards.
-
-**Achievement:** Top 10, Encouragement Prize of  Vietnam Datathon - DataStorm 2025
 
 **My Role** (Team of 5)
   * Engineered SKU-level time-series features (lag, rolling statistics, seasonal encodings).
@@ -51,11 +50,9 @@ An end-to-end retail analytics and SKU-level demand forecasting platform for FMC
   * Backend: FastAPI, PostgreSQL, Redis.
   * Machine Learning & Forecasting: Pandas, Scikit-learn, XGBoost.
 
-### [AirForce](https://github.com/DanielNguyen-05/AirForce)
+### [AirForce](https://github.com/DanielNguyen-05/AirForce) | Top 11 NASA Space Apps Challenge 2025, Ho Chi Minh
 
 A air quality monitoring and 7-day AQI forecasting platform integrating satellite, ground-station, and meteorological data streams.
-
-**Achievement:** Top 11 NASA Space Apps Challenge 2025, Ho Chi Minh
 
 **My role**
   * Developed LSTM-based time-series models for 7-day AQI forecasting using multi-source environmental datasets.
@@ -72,11 +69,9 @@ A air quality monitoring and 7-day AQI forecasting platform integrating satellit
   * Backend: FastAPI, PostgreSQL.
   * Machine Learning & Forecasting: PyTorch, Pandas, NumPy, LSTM.
 
-### [athStock](https://github.com/VictorNguyenLPN/athstock)
+### [athStock](https://github.com/VictorNguyenLPN/athstock) | 3rd Prize, TDTU Student Scientific Research 2024 - 2025
 
 A real-time stock platform integrating deep learning-based forecasting, NLP-driven sentiment analysis, and live market data streaming.
-
-**Achievement:** 3rd Prize, TDTU Student Scientific Research 2024 - 2025
 
 **My role** (Team of 2)
   * Designed an architecture using WebSockets for real-time stock price streaming.
