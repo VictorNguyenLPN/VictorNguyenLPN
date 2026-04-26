@@ -19,6 +19,25 @@ I focus on **Multimodal Learning, Image Forensics, and Applied AI Systems**. My 
 
 ---
 
+## Education
+
+**Ton Duc Thang University** - B.Sc. in Computer Science (Artificial Intelligence)
+2023 - 2027
+* Relevant Coursework: Deep Learning, Computer Vision, Natural Language Processing  
+* Awards:
+  * 3rd Prize, Student Scientific Research Competition, TDTU (2025)
+  * Encouragement Prize, Vietnam Datathon – DataStorm (2025)
+  * Top 11, NASA Space Apps Challenge – Ho Chi Minh City (2025)
+  * Encouragement Prize, Southern AI Olympiad (2025)
+
+**Thang Long High School for the Gifted** - Specialized in Chemistry  
+2020 – 2023  
+* Awards:
+  * 3rd Prize, Provincial Excellent Student Competition, Lam Dong (2021)
+  * Member, Lam Dong Provincial Team for National Excellent Student Competition (2021)
+
+---
+
 ## Publications
 
 * Nguyen, Q. H., & Pham, V. H. (2026). **ASBW: A frequency-domain analysis approach for distinguishing GAN-generated images from real images**. In Proceedings of [The Digital Convergence in Economics, Society and Technology (DCEST) 2026 International Conference](https://dcest.org/) (pp. 95–105).
