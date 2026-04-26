@@ -21,7 +21,7 @@ I focus on **Multimodal Learning, Image Forensics, and Applied AI Systems**. My 
 
 ## Education
 
-**Ton Duc Thang University** - B.Sc. in Computer Science (Artificial Intelligence)
+**Ton Duc Thang University** - B.Sc. in Computer Science (Artificial Intelligence)   
 2023 - 2027
 * Relevant Coursework: Deep Learning, Computer Vision, Natural Language Processing  
 * Awards:
@@ -31,7 +31,7 @@ I focus on **Multimodal Learning, Image Forensics, and Applied AI Systems**. My 
   * Encouragement Prize, Southern AI Olympiad (2025)
 
 **Thang Long High School for the Gifted** - Specialized in Chemistry  
-2020 – 2023  
+2020 - 2023  
 * Awards:
   * 3rd Prize, Provincial Excellent Student Competition, Lam Dong (2021)
   * Member, Lam Dong Provincial Team for National Excellent Student Competition (2021)
