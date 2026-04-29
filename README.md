@@ -1,4 +1,7 @@
 <div align="center">
+  <p align="right">
+    <em >Last updated: April 30, 2026</em>
+  </p>
   <h1>Hi, I'm Quang Huy (Victor)</h1>
   <p>
     <strong>Research Intern @ NLP & KD Lab, TDTU</strong><br/>
