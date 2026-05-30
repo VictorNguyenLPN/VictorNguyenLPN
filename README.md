@@ -1,6 +1,6 @@
 <div align="center">
   <p align="right">
-    <em >Last updated: April 30, 2026</em>
+    <em >Last updated: May 30, 2026</em>
   </p>
   <h1>Hi, I'm Quang Huy (Victor)</h1>
   <p>
@@ -19,26 +19,25 @@
 
 ## About Me
 
-I focus on **Multimodal Learning, Image Forensics, and Applied AI Systems**. My work spans from training deep learning models (CV, NLP, time-series) to building end-to-end systems for real-world applications.
+I focus on Multimodal Learning, Image Forensics, Natural Language Processing (NLP), and Applied AI Systems. My research spans foundation models and Large Language Models (LLMs), as well as domain-specific AI solutions for finance and education. My work ranges from developing deep learning models across computer vision, NLP, and time-series analysis to building end-to-end intelligent systems for real-world applications.
+
+---
+
+## EXPERIENCE
+
+**Research Intern** @ [*NLP & KD Lab, Faculty of Information Technology, TDTU*](https://it.tdtu.edu.vn/en/nlplab)
+April 2026 - Present
+
+* Researched and fine-tuned pretrained large language models for domain-specific tasks.
+* Crawled, preprocessed, and annotated datasets for NLP experiments.
+* Built chatbot systems using large language models and retrieval-based techniques.
 
 ---
 
 ## Education
 
-**Ton Duc Thang University** - B.Sc. in Computer Science (Artificial Intelligence)   
+**Bachelor of Computer Science** @ [*Ton Duc Thang University*](https://tdtu.edu.vn/en)
 2023 - 2027
-* Relevant Coursework: Deep Learning, Computer Vision, Natural Language Processing  
-* Awards:
-  * 3rd Prize, Student Scientific Research Competition, TDTU (2025)
-  * Encouragement Prize, Vietnam Datathon – DataStorm (2025)
-  * Top 11, NASA Space Apps Challenge – Ho Chi Minh City (2025)
-  * Encouragement Prize, Southern AI Olympiad (2025)
-
-**Thang Long High School for the Gifted** - Specialized in Chemistry  
-2020 - 2023  
-* Awards:
-  * 3rd Prize, Provincial Excellent Student Competition, Lam Dong (2021)
-  * Member, Lam Dong Provincial Team for National Excellent Student Competition (2021)
 
 ---
 
@@ -52,67 +51,57 @@ I focus on **Multimodal Learning, Image Forensics, and Applied AI Systems**. My 
 
 ## Projects
 
-### [DataStorm](https://github.com/DomTechnology/datastorm) | Top 10, Encouragement Prize of  Vietnam Datathon - DataStorm 2025
+### Fine-tune Qwen-VL for VQA Problem | [Github](https://github.com/VictorNguyenLPN/ViFoodVQA)
+Built ViFoodVQA, a Vietnamese food Visual Question Answering dataset containing 2,326 food images and 23,260 QA pairs, then adapted the Qwen-VL model series with QLoRA for food-domain multimodal understanding.
 
-An end-to-end retail analytics and SKU-level demand forecasting platform for FMCG, integrating time-series modeling with interactive dashboards.
+**Contributions**
+  * Designed and curated the ViFoodVQA benchmark for Vietnamese multimodal question answering on food
+  images.
+  * Adapted Qwen2-VL-2B, Qwen2.5-VL-3B, and Qwen3-VL-2B using QLoRA for domain-specific visual reasoning
+  tasks.
 
-**My Role** (Team of 5)
-  * Engineered SKU-level time-series features (lag, rolling statistics, seasonal encodings).
-  * Developed XGBoost forecasting models achieving 5% lower MAPE than seasonal baseline.
-  * Deployed forecasting API with FastAPI.
-  * Built analytics dashboard with React and Next.js.
+**Results**
+  * Achieved the best overall average score of 48.39 with fine-tunned model Qwen3-VL-2B-Instruct.
+  * Improved the Qwen3-VL-2B baseline from 24.00 to 48.39 after domain adaptation on ViFoodVQA.
+  * Increased BLEU from 4.32 to 32.63, ROUGE-L from 39.51 to 63.27, PhoBERT-F1 from 51.03 to 71.78, and LAS (LLM-As-Judge) from 11.20 to 60.30.
+
+**Technologies**: Python, PyTorch, Hugging Face Transformers, Qwen-VL, QLoRA.
+
+
+
+### DataStorm | [Github](https://github.com/DomTechnology/datastorm)
+
+Built an end-to-end retail analytics and SKU-level demand forecasting platform for FMCG, combining time-series forecasting with interactive business intelligence dashboards.
+
+**Contributions**
+  * Engineered SKU-level forecasting features, including lag variables, rolling statistics, and seasonal encodings.
+  * Developed XGBoost-based forecasting models for short-term demand prediction across retail products.
+  * Built forecasting APIs with FastAPI and integrated prediction outputs into interactive dashboards using React and Next.js.
+
+**Results**
+  * Achieved 5% lower MAPE compared to the seasonal forecasting baseline.
+  * Delivered 7-day SKU-level demand forecasting for inventory planning and stock alerting work
+
+**Technologies**: Python, PyTorch, LSTM, FastAPI, PostgreSQL, React.
+
+**Achievement**: Encouragement Prize, Vietnam Datathon 2025
+
+### AirForce | [Github](https://github.com/DanielNguyen-05/AirForce)
+Built an air quality monitoring and 7-day AQI forecasting platform integrating satellite data and ground-station
+measurements for environmental monitoring and early risk awareness.
+
+**Contributions**
+  * Developed LSTM-based time-series forecasting models using environmental datasets for AQI prediction.
+  * Processed and aligned satellite, weather, and ground-station data into unified temporal records for model training and monitoring workflows.
   
-**Features**
-  * Interactive sales analytics with geo/channel drill-down.
-  * 7-day demand forecasting for inventory optimization and stock alerting.
-  * Price elasticity and promotion impact analysis.
-  * Multi-country store comparison via geospatial visualization.
-  
-**Tech Stack**
-  * Frontend: Next.js, React, shadcn/ui, Tailwind CSS.
-  * Backend: FastAPI, PostgreSQL, Redis.
-  * Machine Learning & Forecasting: Pandas, Scikit-learn, XGBoost.
+**Results**
+  * Achieved Top 11 at NASA Space Apps Challenge 2025 – Ho Chi Minh City.
+  * Delivered 7-day AQI forecasting with an MAE of 1.12 and RMSE of 3.
 
-### [AirForce](https://github.com/DanielNguyen-05/AirForce) | Top 11 NASA Space Apps Challenge 2025, Ho Chi Minh
+**Technologies**: Python, PyTorch, LSTM, FastAPI, PostgreSQL, React.
 
-A air quality monitoring and 7-day AQI forecasting platform integrating satellite, ground-station, and meteorological data streams.
+**Achievement**: Top 11 NASA Space Apps Challenge 2025, Ho Chi Minh
 
-**My role**
-  * Developed LSTM-based time-series models for 7-day AQI forecasting using multi-source environmental datasets.
-  * Contributed to interactive AQI visualization and spatial tracking using React.
-
-**Features**
-  * Real-time ingestion from satellite and ground-based environmental sources.
-  * Deep learning-based 7-day AQI forecasting.
-  * AQI alerting system aligned with WHO and EPA thresholds.
-  * Temporal-spatial visualization for air quality monitoring.
-
-**Tech Stack**
-  * Frontend: React, Next.js, Tailwind CSS.
-  * Backend: FastAPI, PostgreSQL.
-  * Machine Learning & Forecasting: PyTorch, Pandas, NumPy, LSTM.
-
-### [athStock](https://github.com/VictorNguyenLPN/athstock) | 3rd Prize, TDTU Student Scientific Research 2024 - 2025
-
-A real-time stock platform integrating deep learning-based forecasting, NLP-driven sentiment analysis, and live market data streaming.
-
-**My role** (Team of 2)
-  * Designed an architecture using WebSockets for real-time stock price streaming.
-  * Developed LSTM-based models for short-term trend forecasting on historical price data.
-  * Fine-tuned PhoBERT for financial news sentiment analysis.
-  * Built blogging and publishing platform.
-
-**Features**
-  * Real-time stock dashboards with live price updates.
-  * Deep learning-based trend forecasting.
-  * NLP-powered sentiment scoring on Vietnamese financial news.
-  * Community blogging platform for investment insights.
-
-**Tech Stack**
-  * Frontend: React, Next.js, Tailwind CSS.
-  * Backend: FastAPI / Node.js, PostgreSQL, WebSockets.
-  * Machine Learning & NLP: PyTorch, LSTM, PhoBERT, Pandas.
-  
 ---
 
 ## Skills
@@ -129,7 +118,7 @@ A real-time stock platform integrating deep learning-based forecasting, NLP-driv
 
 ## Certification
 
-* **TOEIC** (Listening: 480/495; Reading: 365/495; Speaking: 120/200; Writing: 150/200)
+* **TOEIC** 845 (Listening: 480/495; Reading: 365/495; Speaking: 120/200; Writing: 150/200)
 * **Agile Development & Scrum Framework** (Techbase Vietnam)
 
 ---
