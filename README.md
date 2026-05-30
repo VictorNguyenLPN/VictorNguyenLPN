@@ -15,31 +15,29 @@
   </p>
 </div>
 
----
 
 ## About Me
 
 I focus on Multimodal Learning, Image Forensics, Natural Language Processing (NLP), and Applied AI Systems. My research spans foundation models and Large Language Models (LLMs), as well as domain-specific AI solutions for finance and education. My work ranges from developing deep learning models across computer vision, NLP, and time-series analysis to building end-to-end intelligent systems for real-world applications.
 
----
 
 ## EXPERIENCE
 
 **Research Intern** @ [*NLP & KD Lab, Faculty of Information Technology, TDTU*](https://it.tdtu.edu.vn/en/nlplab)
+
 April 2026 - Present
 
 * Researched and fine-tuned pretrained large language models for domain-specific tasks.
 * Crawled, preprocessed, and annotated datasets for NLP experiments.
 * Built chatbot systems using large language models and retrieval-based techniques.
 
----
 
 ## Education
 
 **Bachelor of Computer Science** @ [*Ton Duc Thang University*](https://tdtu.edu.vn/en)
+
 2023 - 2027
 
----
 
 ## Publications
 
@@ -47,7 +45,6 @@ April 2026 - Present
 <!-- * Nguyen, Q. H., Nguyen, P. T., Phan, A. K., & Tran Luong, Q.-D. (2026). **ViBankACSA: An aspect category sentiment analysis dataset for Vietnamese banking**.
 * Nguyen, Q. H., & Pham, V. H. (2026). **FALCON: Forensic artifact-guided localization and contrastive reasoning for generalizable synthetic image detection**. -->
   
----
 
 ## Projects
 
@@ -67,7 +64,7 @@ Built ViFoodVQA, a Vietnamese food Visual Question Answering dataset containing 
 
 **Technologies**: Python, PyTorch, Hugging Face Transformers, Qwen-VL, QLoRA.
 
-
+---
 
 ### DataStorm | [Github](https://github.com/DomTechnology/datastorm)
 
@@ -86,6 +83,8 @@ Built an end-to-end retail analytics and SKU-level demand forecasting platform f
 
 **Achievement**: Encouragement Prize, Vietnam Datathon 2025
 
+---
+
 ### AirForce | [Github](https://github.com/DanielNguyen-05/AirForce)
 Built an air quality monitoring and 7-day AQI forecasting platform integrating satellite data and ground-station
 measurements for environmental monitoring and early risk awareness.
@@ -102,7 +101,6 @@ measurements for environmental monitoring and early risk awareness.
 
 **Achievement**: Top 11 NASA Space Apps Challenge 2025, Ho Chi Minh
 
----
 
 ## Skills
 
@@ -114,14 +112,12 @@ measurements for environmental monitoring and early risk awareness.
 * Datastores: MySQL, MongoDB.
 * Frontend: React, TailwindCSS.
 
----
 
 ## Certification
 
 * **TOEIC** 845 (Listening: 480/495; Reading: 365/495; Speaking: 120/200; Writing: 150/200)
 * **Agile Development & Scrum Framework** (Techbase Vietnam)
 
----
 
 ## Contact
 
