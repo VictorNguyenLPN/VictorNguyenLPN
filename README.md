@@ -48,7 +48,7 @@ April 2026 - Present
 
 ## Projects
 
-### Fine-tune Qwen-VL for VQA Problem | [Github](https://github.com/VictorNguyenLPN/ViFoodVQA)
+### 💡 Fine-tune Qwen-VL for VQA Problem | [Github](https://github.com/VictorNguyenLPN/ViFoodVQA)
 Built ViFoodVQA, a Vietnamese food Visual Question Answering dataset containing 2,326 food images and 23,260 QA pairs, then adapted the Qwen-VL model series with QLoRA for food-domain multimodal understanding.
 
 **Contributions**
@@ -66,7 +66,7 @@ Built ViFoodVQA, a Vietnamese food Visual Question Answering dataset containing 
 
 ---
 
-### DataStorm | [Github](https://github.com/DomTechnology/datastorm)
+### 💡 DataStorm | [Github](https://github.com/DomTechnology/datastorm)
 
 Built an end-to-end retail analytics and SKU-level demand forecasting platform for FMCG, combining time-series forecasting with interactive business intelligence dashboards.
 
@@ -85,7 +85,7 @@ Built an end-to-end retail analytics and SKU-level demand forecasting platform f
 
 ---
 
-### AirForce | [Github](https://github.com/DanielNguyen-05/AirForce)
+### 💡 AirForce | [Github](https://github.com/DanielNguyen-05/AirForce)
 Built an air quality monitoring and 7-day AQI forecasting platform integrating satellite data and ground-station
 measurements for environmental monitoring and early risk awareness.
 
