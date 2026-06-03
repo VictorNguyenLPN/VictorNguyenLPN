@@ -1,54 +1,58 @@
 <div align="center">
   <p align="right">
-    <em >Last updated: May 30, 2026</em>
+    <em >Last updated: Jun 3, 2026</em>
   </p>
   <h1>Hi, I'm Quang Huy (Victor)</h1>
   <p>
-    <strong>Research Intern @ NLP & KD Lab, TDTU</strong><br/>
-    Multimodal Learning | Image Forensics | AI Systems<br/>
-    <a href="https://victornguyenlpn.github.io/">Homepage</a> |
-    <a href="mailto:nqhuy.aie@gmail.com">Email</a> |
-    <a href="https://github.com/VictorNguyenLPN">Github</a> |
-    <a href="https://www.linkedin.com/in/nguyenquanghuy040805/">LinkedIn</a> |
-    <a href="https://orcid.org/0009-0003-3203-0415">ORCID</a><br/><br/>
-    <em>Seeking <strong>AI Research Intern</strong> (Multimodal Learning, Computer Vision, LLMs)<br/>and <strong>AI Engineer Intern</strong> (RAG, AI Agents, LLM applications)<br/>in Ho Chi Minh City, Vietnam 🇻🇳</em>
+    <strong>Research Intern @ <a href="https://it.tdtu.edu.vn/nlplab" target_="blank">NLP & KD Lab, TDTU</a></strong>
+    <br/>
+    Multimodal Learning, Image Forensics, LLMs & Agents
+    <br/>
+    <a href="https://victornguyenlpn.github.io/" target_="blank">Homepage</a> |
+    <a href="mailto:nqhuy.aie@gmail.com" target_="blank">Email</a> |
+    <a href="https://github.com/VictorNguyenLPN" target_="blank">Github</a> |
+    <a href="https://www.linkedin.com/in/nguyenquanghuy040805/" target_="blank">LinkedIn</a> |
+    <a href="https://orcid.org/0009-0003-3203-0415" target_="blank">ORCID</a><br/>
+    <br/>
   </p>
 </div>
 
+I am interested in Multimodal Learning, Image Forensics, NLP, and Applied AI, developing foundation-model-based solutions and intelligent systems for finance, education, and other real-world domains.
 
-## About Me
+>*Open to AI Research Intern (Computer Vision, LLMs) and AI Engineer Intern (RAG, AI Agents) - Ho Chi Minh City, Vietnam.*
 
-I focus on Multimodal Learning, Image Forensics, Natural Language Processing (NLP), and Applied AI Systems. My research spans foundation models and Large Language Models (LLMs), as well as domain-specific AI solutions for finance and education. My work ranges from developing deep learning models across computer vision, NLP, and time-series analysis to building end-to-end intelligent systems for real-world applications.
+---
 
+## Experience
 
-## EXPERIENCE
+**Research Intern**, [NLP & KD Lab - Ton Duc Thang University](https://it.tdtu.edu.vn/nlplab) (Jun 2026 - Present)
 
-**Research Intern** @ [*NLP & KD Lab, Faculty of Information Technology, TDTU*](https://it.tdtu.edu.vn/en/nlplab)
+- Fine-tune pretrained LLMs and adapt multimodal models for domain-specific tasks.
+- Curate, preprocess, and annotate datasets to support experiments and benchmarks.
+- Develop retrieval-augmented systems and prototype LLM-based applications.
 
-April 2026 - Present
-
-* Researched and fine-tuned pretrained large language models for domain-specific tasks.
-* Crawled, preprocessed, and annotated datasets for NLP experiments.
-* Built chatbot systems using large language models and retrieval-based techniques.
-
+---
 
 ## Education
 
-**Bachelor of Computer Science** @ [*Ton Duc Thang University*](https://tdtu.edu.vn/en)
+**Bachelor of Computer Science**, [Ton Duc Thang University](https://tdtu.edu.vn/en) (Sep 2023 - Present)
 
-2023 - 2027
+- Relevant coursework: Deep Learning, Intro to NLP, Computer Vision
 
+---
 
 ## Publications
 
-* Nguyen, Q. H., & Pham, V. H. (2026). **ASBW: A frequency-domain analysis approach for distinguishing GAN-generated images from real images**. In Proceedings of [The Digital Convergence in Economics, Society and Technology (DCEST) 2026 International Conference](https://dcest.org/) (pp. 95–105).
-<!-- * Nguyen, Q. H., Nguyen, P. T., Phan, A. K., & Tran Luong, Q.-D. (2026). **ViBankACSA: An aspect category sentiment analysis dataset for Vietnamese banking**.
-* Nguyen, Q. H., & Pham, V. H. (2026). **FALCON: Forensic artifact-guided localization and contrastive reasoning for generalizable synthetic image detection**. -->
+* Nguyen, Q. H., & Pham, V. H. (2026). **ASBW: A frequency-domain analysis approach for distinguishing GAN-generated images from real images**. In Proceedings of The Digital Convergence in Economics, Society and Technology (DCEST) 2026 International Conference (pp. 95–105). [[Github]](https://github.com/VictorNguyenLPN/ASBW)
   
+* Nguyen, Q. H., & Pham, V. H. (2026). **FALCON: Forensic-Aware Language-guided Contrastive Learning for Generalized Synthetic Image Detection**. Under review at the 18th International Conference on Frontiers of Information Technology, Applications and Tools (FITAT 2026). [[Github]](https://github.com/VictorNguyenLPN/FALCON)
+  
+---
 
 ## Projects
 
-### 💡 Fine-tune Qwen-VL for VQA Problem | [Github](https://github.com/VictorNguyenLPN/ViFoodVQA)
+### [ViFoodVQA](https://github.com/VictorNguyenLPN/ViFoodVQA)
+
 Built ViFoodVQA, a Vietnamese food Visual Question Answering dataset containing 2,326 food images and 23,260 QA pairs, then adapted the Qwen-VL model series with QLoRA for food-domain multimodal understanding.
 
 **Contributions**
@@ -64,9 +68,10 @@ Built ViFoodVQA, a Vietnamese food Visual Question Answering dataset containing 
 
 **Technologies**: Python, PyTorch, Hugging Face Transformers, Qwen-VL, QLoRA.
 
----
 
-### 💡 DataStorm | [Github](https://github.com/DomTechnology/datastorm)
+### [DataStorm](https://github.com/DomTechnology/datastorm)
+
+> *Achieved Encouragement Prize, Vietnam Datathon, Datastorm 2025*
 
 Built an end-to-end retail analytics and SKU-level demand forecasting platform for FMCG, combining time-series forecasting with interactive business intelligence dashboards.
 
@@ -81,13 +86,12 @@ Built an end-to-end retail analytics and SKU-level demand forecasting platform f
 
 **Technologies**: Python, PyTorch, LSTM, FastAPI, PostgreSQL, React.
 
-**Achievement**: Encouragement Prize, Vietnam Datathon 2025
 
----
+### [AirForce](https://github.com/DanielNguyen-05/AirForce)
 
-### 💡 AirForce | [Github](https://github.com/DanielNguyen-05/AirForce)
-Built an air quality monitoring and 7-day AQI forecasting platform integrating satellite data and ground-station
-measurements for environmental monitoring and early risk awareness.
+> *Achieved Top 11 NASA Space Apps Challenge 2025, Ho Chi Minh*
+
+Built an air quality monitoring and 7-day AQI forecasting platform integrating satellite data and ground-station measurements for environmental monitoring and early risk awareness.
 
 **Contributions**
   * Developed LSTM-based time-series forecasting models using environmental datasets for AQI prediction.
@@ -99,8 +103,7 @@ measurements for environmental monitoring and early risk awareness.
 
 **Technologies**: Python, PyTorch, LSTM, FastAPI, PostgreSQL, React.
 
-**Achievement**: Top 11 NASA Space Apps Challenge 2025, Ho Chi Minh
-
+---
 
 ## Skills
 
@@ -112,12 +115,14 @@ measurements for environmental monitoring and early risk awareness.
 * Datastores: MySQL, MongoDB.
 * Frontend: React, TailwindCSS.
 
+---
 
 ## Certification
 
 * **TOEIC** 845 (Listening: 480/495; Reading: 365/495; Speaking: 120/200; Writing: 150/200)
 * **Agile Development & Scrum Framework** (Techbase Vietnam)
 
+---
 
 ## Contact
 
@@ -126,4 +131,3 @@ measurements for environmental monitoring and early risk awareness.
 * **Github**: [VictorNguyenLPN](https://github.com/VictorNguyenLPN)
 * **LinkedIn**: [linkedin.com/in/nguyenquanghuy040805](https://www.linkedin.com/in/nguyenquanghuy040805/)
 * **ORCID**: [0009-0003-3203-0415](https://orcid.org/0009-0003-3203-0415)
-
