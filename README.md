@@ -37,7 +37,7 @@ I am interested in Multimodal Learning, Image Forensics, NLP, and Applied AI, de
 
 **Bachelor of Computer Science**, [Ton Duc Thang University](https://tdtu.edu.vn/en) (Sep 2023 - Present)
 
-- Relevant coursework: Deep Learning, Intro to NLP, Computer Vision
+- Relevant coursework: Machine Learning (**8.7**), Deep Learning (**8.0**), KDDM (**8.2**), MMDS (**8.7**), NLP (**8.2**), Computer Vision (**9.3**), IT Project (**9.2**)
 
 ---
 
@@ -119,7 +119,7 @@ Built an air quality monitoring and 7-day AQI forecasting platform integrating s
 
 ## Certification
 
-* **TOEIC** 845 (Listening: 480/495; Reading: 365/495; Speaking: 120/200; Writing: 150/200)
+* **TOEIC 845** & **TOEIC SW 270** 
 * **Agile Development & Scrum Framework** (Techbase Vietnam)
 
 ---
